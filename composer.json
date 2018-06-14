@@ -1,5 +1,5 @@
 {
-    "name": "akeneo/storage-utils",
+    "name": "vimex/storage-utils",
     "type": "library",
     "description": "Akeneo Storage Utils",
     "keywords": ["Akeneo", "Persistence"],
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "symfony/event-dispatcher": "^2.3"
+        "symfony/event-dispatcher": "^3.4|^4.1"
     },
     "require-dev": {
         "phpspec/phpspec": "3.0.0"
@@ -24,10 +24,5 @@
     "autoload": {
         "psr-4": { "Akeneo\\Component\\StorageUtils\\": "" }
     },
-    "minimum-stability": "stable",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.6.x-dev"
-        }
-    }
+    "minimum-stability": "stable"
 }
