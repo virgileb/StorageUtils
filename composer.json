@@ -1,5 +1,5 @@
 {
-    "name": "akeneo/storage-utils",
+    "name": "vimex/storage-utils",
     "type": "library",
     "description": "Akeneo Storage Utils",
     "keywords": ["Akeneo", "Persistence"],
