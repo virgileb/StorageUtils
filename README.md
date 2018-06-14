@@ -3,7 +3,7 @@ Storage Utils Library
 
 Interfaces and classes to abstract accesses to the storage (saver, remover, updater, repository).
 
-[![Build Status](https://api.travis-ci.org/akeneo/storage-utils.png?branch=master)](https://travis-ci.org/akeneo/storage-utils)
+[![Build Status](https://travis-ci.org/vimex/StorageUtils.svg?branch=master)](https://travis-ci.org/vimex/StorageUtils)
 
 Akeneo PIM
 ----------
