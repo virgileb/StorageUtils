@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "symfony/event-dispatcher": "^5.0"
+        "symfony/event-dispatcher": "^5.4"
     },
     "config": {
         "bin-dir": "bin"
